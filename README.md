@@ -1,4 +1,4 @@
-Direct3D-Invisible-Walls
+Direct3D Invisible Walls
 ========================
 
 Using Deviare to Cheat on Games: Intercepting Direct3D COM objects and making walls invisible.
